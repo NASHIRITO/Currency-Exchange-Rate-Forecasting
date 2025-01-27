@@ -1,1 +1,3 @@
 # Currency-Exchange-Rate-Forecasting
+
+Currency exchange rate forecasting means predicting future fluctuations in the value of one currency against another. It involves the use of historical data, economic indicators, and mathematical models to make accurate predictions about the direction and magnitude of exchange rate movements. It helps individuals, businesses (such as import-export businesses, foreign investment and tourism), and financial institutions to anticipate market trends, mitigate risk, optimize currency conversions and plan strategic decisions. To forecast exchange rates, we need historical data on the exchange rates between two currencies
